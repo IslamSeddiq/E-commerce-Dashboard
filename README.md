@@ -13,17 +13,15 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ## My Skills 🧠
 
-![Tableau]
+![Power BI](https://drive.google.com/drive/folders/1ZjWI4FefGHOG5lSEvmp4cnmGlnUoxCtq?usp=drive_link)
 
-![Statistics]
+![Python]
 
 ## Featured Project 💻
 
-### [E-commerce-Dashboard]
+### [E-commerce-Dashboard](https://drive.google.com/drive/folders/1ZjWI4FefGHOG5lSEvmp4cnmGlnUoxCtq?usp=drive_link)
 
-![Project 1 Screenshot](https://i.supaimg.com/0f4540f0-1d78-4833-94c1-5f38aa04f72c.jpg)
-
-[E-commerce-Dashboard] This project showcases a Tableau dashboard designed to analyze customer sales performance over multiple years. It tracks sales trends, profit margins, customer distribution, and highlights key buying patterns by customer and region. This project demonstrates my ability to use Tableau effectively.
+[E-commerce-Dashboard] This Ecommerce Sales Dashboard project, built with PowerBI, provides a comprehensive overview of sales performance for an online store. It tracks key metrics such as total sales, profit, quantity sold, orders, and customer base. The dashboard features interactive visualizations, including a U.S sales map, customer behavior, and daily sales trends. The project demonstrates my ability to use Power BI effectively.
 
 
 ## Get in Touch 📬
